@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085141387808",
+    "firebase_url": "https://myrecipe-f4964.firebaseio.com",
+    "project_id": "myrecipe-f4964",
+    "storage_bucket": "myrecipe-f4964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085141387808:android:3ca14874d3115d06",
+        "android_client_info": {
+          "package_name": "com.wiseowl.myrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085141387808-lpdh0rmgen820arvhrf6qekp4uet4htk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZep6Q7lMNOvNEhy54lW7w5_iQDyUQr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085141387808-lpdh0rmgen820arvhrf6qekp4uet4htk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
